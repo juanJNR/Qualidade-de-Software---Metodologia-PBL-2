@@ -1,10 +1,7 @@
 # Projeto — Qualidade de Software
 
 ## 👥 Integrantes
-- Nome Completo — Matrícula
-- Nome Completo — Matrícula
-- Nome Completo — Matrícula
-- Nome Completo — Matrícula
+- Juan Nunes Rosa — 071920005
 
 ## 🎯 Objetivo do Repositório
 Este repositório reúne as atividades desenvolvidas na disciplina de
