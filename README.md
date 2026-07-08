@@ -1,7 +1,7 @@
 # Projeto — Qualidade de Software
 
 ## 👥 Integrantes
-- Juan Nunes Rosa — 071920005
+- Juan  — 071920005
 
 ## 🎯 Objetivo do Repositório
 Este repositório reúne as atividades desenvolvidas na disciplina de
