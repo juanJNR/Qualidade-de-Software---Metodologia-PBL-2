@@ -1,0 +1,40 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+ENV/
+
+# ===== Pytest =====
+.pytest_cache/
+.cache/
+*.cover
+.coverage
+.coverage.*
+htmlcov/
+resultados.xml
+
+# ===== Playwright =====
+# Navegadores baixados pelo `playwright install`
+node_modules/
+playwright-report/
+test-results/
+.playwright/
+
+# ===== Evidências geradas em runtime (não versionar prints temporários) =====
+*.png
+!artefatos/evidencias/*.png
+*.log
+
+# ===== Sistema Operacional / Editor =====
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
